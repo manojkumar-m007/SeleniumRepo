@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="160277" started-at="2018-06-12T09:02:27Z" finished-at="2018-06-12T09:05:07Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="160277" started-at="2018-06-12T09:02:27Z" finished-at="2018-06-12T09:05:07Z">
+      <class name="com.practise.selenium.SeleniumPractise.Amazon">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.practise.selenium.SeleniumPractise.Amazon@3cbbc1e0]" name="openBrowser" is-config="true" duration-ms="13790" started-at="2018-06-12T09:02:27Z" finished-at="2018-06-12T09:02:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testEndToEnd()[pri:0, instance:com.practise.selenium.SeleniumPractise.Amazon@3cbbc1e0]" name="testEndToEnd" duration-ms="43956" started-at="2018-06-12T09:04:23Z" finished-at="2018-06-12T09:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testEndToEnd -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:com.practise.selenium.SeleniumPractise.Amazon@3cbbc1e0]" name="closeBrowser" is-config="true" duration-ms="1" started-at="2018-06-12T09:05:07Z" finished-at="2018-06-12T09:05:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- com.practise.selenium.SeleniumPractise.Amazon -->
+      <class name="com.practise.selenium.SeleniumPractise.Flipkart">
+        <test-method status="PASS" signature="openBrowser()[pri:0, instance:com.practise.selenium.SeleniumPractise.Flipkart@35fb3008]" name="openBrowser" is-config="true" duration-ms="66248" started-at="2018-06-12T09:02:41Z" finished-at="2018-06-12T09:03:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- openBrowser -->
+        <test-method status="PASS" signature="testLogin()[pri:0, instance:com.practise.selenium.SeleniumPractise.Flipkart@35fb3008]" name="testLogin" duration-ms="20674" started-at="2018-06-12T09:03:47Z" finished-at="2018-06-12T09:04:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testLogin -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:com.practise.selenium.SeleniumPractise.Flipkart@35fb3008]" name="afterMethod" is-config="true" duration-ms="15530" started-at="2018-06-12T09:04:08Z" finished-at="2018-06-12T09:04:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- com.practise.selenium.SeleniumPractise.Flipkart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

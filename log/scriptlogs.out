@@ -1,0 +1,11 @@
+2018-06-12 12:57:46 INFO  BasePage:26 - Properties Object Is Created
+2018-06-12 12:57:46 INFO  BasePage:28 - GlobalProperty  File passed to input stream
+2018-06-12 12:57:46 INFO  BasePage:30 - GlobalProperty is loaded
+2018-06-12 12:57:46 INFO  BasePage:32 - Getting the Browser
+2018-06-12 12:57:46 INFO  BasePage:43 - Entered Browser Is FireFox
+2018-06-12 12:57:46 INFO  BasePage:45 - Getting key and Executable From Property
+2018-06-12 12:58:32 INFO  BasePage:47 - FireFox Browser Opened
+2018-06-12 12:58:32 INFO  BasePage:58 - Implicit wait is Applied
+2018-06-12 12:58:32 INFO  BasePage:59 - Return the Browser Object
+2018-06-12 12:58:32 INFO  BasePage:17 - Application Opened
+2018-06-12 12:58:47 INFO  BasePage:19 - Home page loaded Successfully
